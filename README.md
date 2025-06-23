@@ -77,7 +77,7 @@ npm install
 # Start frontend and backend
 cd ..
 npm run dev
- Future Improvements
+##  Future Improvements
 Real-time Order Tracking via WebSockets: Replace polling with live updates using Socket.IO.
 
 Progressive Web App (PWA): Enable offline access and installable experience with push notifications.
